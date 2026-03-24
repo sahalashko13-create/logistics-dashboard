@@ -1,0 +1,6 @@
+start,end,distance,cost
+Sklad,Magazin_1,10,200
+Magazin_1,Magazin_2,5,100
+Sklad,Magazin_2,18,350
+Magazin_2,Magazin_3,8,150
+Sklad,Magazin_3,25,500
