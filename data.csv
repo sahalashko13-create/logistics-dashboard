@@ -1,6 +1,6 @@
-start,end,distance,cost
-Sklad,Magazin_1,10,200
-Magazin_1,Magazin_2,5,100
-Sklad,Magazin_2,18,350
-Magazin_2,Magazin_3,8,150
-Sklad,Magazin_3,25,500
+start,end,distance,cost,time_hours,start_lat,start_lon,end_lat,end_lon
+Sklad,Magazin_1,10,200,2,50.4501,30.5234,49.8397,24.0297
+Magazin_1,Magazin_2,5,100,1,49.8397,24.0297,46.4825,30.7233
+Sklad,Magazin_2,18,350,4,50.4501,30.5234,46.4825,30.7233
+Magazin_2,Magazin_3,8,150,2,46.4825,30.7233,48.4647,35.0462
+Sklad,Magazin_3,25,500,5,50.4501,30.5234,48.4647,35.0462
